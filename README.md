@@ -1,5 +1,5 @@
 # H! G!thub 🎇
-<p align="center">I am Yana 👩‍💻</p><p align="center">I write code 🧾</p><p align="center">Sometimes it works 🔥</p>
+<p align="center">I am Yana 👩‍💻   I write code 🧾  Sometimes it works 🔥</p>
 
 ## On a ser!ous 🧐 note:
 
