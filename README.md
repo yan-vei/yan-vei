@@ -12,7 +12,7 @@ All you need to know is that I:
 1. Natural Language Processing (NLP)
 2. Machine Learning
 3. Automation testing
-4. Cloud Comouting
+4. Cloud Computing
 
 ## Technology Stack ⚙️
 I use:  
