@@ -4,7 +4,7 @@
 ## On a ser!ous 🧐 note:
 
 All you need to know is that I:
-* major in CS 💻 and minor in Mathematics 🧮 & Modern Languages and Cultures 🧏‍♀️
+* major in CS 💻 and minors in Mathematics 🧮 & Modern Languages and Cultures 🧏‍♀️
 * develop backend at [SocialParagraph](http://www.socialparagraph.com/)
 * started my career at [n.exchange](https://n.exchange/) as a QA-trainee
 
