@@ -16,8 +16,8 @@ All you need to know is that I:
 
 ## Technology Stack ⚙️
 I use:  
-<p align="center">
-<img src="https://img.icons8.com/color/48/000000/python--v1.png"/><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/color/48/000000/gitlab.png"/><img src="https://img.icons8.com/color/48/000000/postgreesql.png"/><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/></p>
+<p align="center"><img src="https://img.icons8.com/color/48/000000/angularjs.png"/><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/python--v1.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/color/48/000000/gitlab.png"/><img src="https://img.icons8.com/color/48/000000/postgreesql.png"/><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/></p>
 
 ## Get in touch? 🤝
 I am always open to any work, study, collab, or research opportunies, and would be happy to meet new people!  
