@@ -5,14 +5,15 @@
 
 All you need to know is that I:
 * major in CS 💻 and minor in Mathematics 🧮 & Modern Languages and Cultures 🧏‍♀️
-* develop backend at [SocialParagraph](http://www.socialparagraph.com/)
+* develop software at [VMware Bulgaria](https://www.vmware.com/)
+* developed backend at [SocialParagraph](http://www.socialparagraph.com/)
 * started my career at [n.exchange](https://n.exchange/) as a QA-trainee
 
 ## !nterests 📖
 1. Natural Language Processing (NLP)
-2. Machine Learning
-3. Automated Testing
-4. Cloud Computing
+2. Cloud Development
+3. Backend Development
+4. Automated Testing
 
 ## Technology Stack ⚙️
 I use:  
