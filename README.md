@@ -5,9 +5,8 @@
 
 All you need to know is that I:
 * major in CS 💻 and minor in Mathematics 🧮 & Modern Languages and Cultures 🧏‍♀️
-* develop software at [VMware Bulgaria](https://www.vmware.com/)
-* developed backend at [SocialParagraph](http://www.socialparagraph.com/)
-* started my career at [n.exchange](https://n.exchange/) as a QA-trainee
+* currently develop software at [VMware Bulgaria](https://www.vmware.com/)
+* in the past developed backend at [SocialParagraph](http://www.socialparagraph.com/)
 
 ## !nterests 📖
 1. Natural Language Processing (NLP)
