@@ -4,7 +4,7 @@
 ## On a ser!ous 🧐 note:
 
 All you need to know is that I:
-* major in CS 💻 and minor in Mathematics 🧮 & Modern Languages and Cultures 🧏‍♀️
+* major in CS 💻 w/ concentration in Foundations of Computing  and minors in Mathematics 🧮 & Modern Languages and Cultures 🧏‍♀️
 * currently develop software at [VMware Bulgaria](https://www.vmware.com/)
 * in the past developed backend at [SocialParagraph](http://www.socialparagraph.com/)
 
