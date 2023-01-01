@@ -4,9 +4,9 @@
 ## On a ser!ous 🧐 note:
 
 All you need to know is that I:
-* major in CS 💻 w/ concentration in Foundations of Computing  and minors in Mathematics 🧮 & Modern Languages and Cultures 🧏‍♀️
-* currently develop software at [VMware Bulgaria](https://www.vmware.com/)
-* in the past developed backend at [SocialParagraph](http://www.socialparagraph.com/)
+* major in CS 💻 w/ concentration in Foundations of Computing  and minors in Mathematics 🧮 & Modern Languages and Cultures (Spanish focus) 🧏‍♀️
+* developed software at [VMware Bulgaria](https://www.vmware.com/)
+* developed backend at [SocialParagraph](http://www.socialparagraph.com/)
 
 ## !nterests 📖
 1. Natural Language Processing (NLP)
