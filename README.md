@@ -9,10 +9,9 @@ I:
 * developed backend at [SocialParagraph](http://www.socialparagraph.com/)
 
 ## !nterests 📖
-1. Natural Language Processing (NLP)
-2. Cloud Development
-3. Backend Development
-4. Automated Testing
+1. NLP & CL
+2. Backend Dev
+3. Automated Testing
 
 ## Techn0l0gy St@ck ⚙️
 I use:  
