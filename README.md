@@ -22,5 +22,4 @@ I use:
 I am always open to any work, study, collab, or research opportunies, and would be happy to meet new people!  
 <p align="center">
 <a href="https://www.linkedin.com/in/yveitsman/"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/yandev7"><img align="center" src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="mailto:veytsman.karaganda@gmail.com"><img align="center" src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a></p>
