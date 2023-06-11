@@ -1,7 +1,7 @@
 # Hi Github!
 <p align="center">I am Yana 👩‍💻   I write code 🧾  Sometimes it works 🔥</p>
 
-## On a serious note:
+## On a serious note
 
 I am:
 * an incoming MSc Language Sci & Tech student @ UdS, DE
