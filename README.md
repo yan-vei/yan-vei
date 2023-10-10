@@ -4,8 +4,8 @@
 ## On a serious note
 
 I am:
-* an incoming MSc Language Sci & Tech student @ UdS, DE
-* a CS alumna (minors: Math & Spanish) of AUBG, BG
+* MSc Language Sci & Tech student @ UdS, DE
+* CS alumna (minors: Math & Spanish) of AUBG, BG
 
 I:
 * developed software @ [VMware Bulgaria](https://www.vmware.com/)
