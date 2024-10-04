@@ -12,9 +12,9 @@ I:
 * developed backend @ [SocialParagraph](http://www.socialparagraph.com/)
 
 ## Interests 
-* NLP & CL
-* Full Stack Web Dev
-* Automated Testing
+* Interpretability of LLMs
+* Low-resource language processing
+* Robust and Efficient NLP
 
 ## Technology Stack 
 <p align="center"><img src="https://img.icons8.com/fluency/50/javascript.png"/><img src="https://img.icons8.com/color/48/000000/angularjs.png"/><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
